@@ -1,0 +1,1 @@
+// v23 inline scripts in index.html
